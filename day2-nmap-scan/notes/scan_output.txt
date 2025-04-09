@@ -1,0 +1,12 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2025-04-09
+Initiating Ping Scan...
+Scanning scanme.nmap.org (45.33.32.156) [2 ports]
+Discovered open port 22/tcp on 45.33.32.156
+Discovered open port 80/tcp on 45.33.32.156
+Completed Ping Scan at 2025-04-09
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.12s latency).
+Not shown: 998 filtered ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
